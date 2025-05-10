@@ -12,7 +12,7 @@
 
 - **Accessibility:** Passionate about accessibility in technology and committed to creating inclusive digital experiences.
 
-- - **Customer Support:** 9+ years of experience in customer support and ensuring customer satisfaction across diverse fields, including delivery services, employee benefits and coaching, focused on spirituality and personal growth.
+- **Customer Support:** 9+ years of experience in customer support and ensuring customer satisfaction across diverse fields, including delivery services, employee benefits and coaching, focused on spirituality and personal growth.
 
 ## 🧰 Tech Stack  
 - **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`  
