@@ -1,18 +1,18 @@
 ## Welcome, I`m Maria 👩‍💻
 
 - ❤️ Passionate about frontend development, accessibility and nature. 
-- 🎓 Soon to be a graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin).
+- 🎓 Graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin).
 - 📍 Based in Berlin and actively looking for job opportunities in tech positions, both locally and remotely.\
       My areas of interest include frontend development, software testing and promoting accessibility in digital experiences.
 
 ## 🚀 Skills & Expertise
-- **Customer Support:** 9+ years of experience in customer support and ensuring customer satisfaction across diverse fields, including delivery services, employee benefits and coaching, focused on spirituality and personal growth.
-
 - **Software Testing:** ISTQB® Certified Tester Foundation Level with practical experience in manual testing and QA management.
 
 - **Quality Assurance:** Managing QA processes, identifying bugs and ensuring software meets high-quality standards.
 
 - **Accessibility:** Passionate about accessibility in technology and committed to creating inclusive digital experiences.
+
+- - **Customer Support:** 9+ years of experience in customer support and ensuring customer satisfaction across diverse fields, including delivery services, employee benefits and coaching, focused on spirituality and personal growth.
 
 ## 🧰 Tech Stack  
 - **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`  
