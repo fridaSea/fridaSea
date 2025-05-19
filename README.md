@@ -1,6 +1,6 @@
 ## Welcome, I`m Maria 👩‍💻
 
-- ❤️ Passionate about frontend development, accessibility and nature. 
+- ❤️ Passionate about frontend development, software testing and nature. 
 - 🎓 Graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin).
 - 📍 Based in Berlin and actively looking for job opportunities in tech positions, both locally and remotely.\
       My areas of interest include frontend development, software testing and promoting accessibility in digital experiences.
